@@ -1,4 +1,6 @@
 # Sentiment-Analysis---Naive-Bayes
 
-Assignment 2 for Graphical Probabilistic Models - IFCE - Fort
+Master of Computer Science - Artificial Intelligence 
+
+Assignment 2 for Probabilistic Graphical Models class at IFCE Brazil.
 Prof.: Amauri Holanda
